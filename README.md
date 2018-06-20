@@ -18,9 +18,9 @@ To train the data, we then have to classify some labels manually.
 
 ## Approach
 The first approach is to build parameters for the labels and to classify them with a random forest model (or similar approaches).  Parameters might be:
--the proportion of background foreground colors
--the amount of colors
--the font-type
--the number of objects in the label
+* the proportion of background foreground colors
+* the amount of colors
+* the font-type
+* the number of objects in the label
 
 The second approach would be using  a neuronal network to do the  parametrization 
