@@ -14,3 +14,13 @@ The algorithm will be applied in the back-end system of a web-shop and has no di
 The data set is built by crawling websites such as vicampo.de, wirwinzer.de, winestro.com, euvino.eu, weine.de and storing the bottle images.
 In a second step, we select only promising images, i.e. images that show a single bottle. Afterwords, we reduce the images to the labels only.
 To train the data, we then have to classify some labels manually.
+
+
+## Approach
+The first approach is to build parameters for the labels and to classify them with a random forest model (or similar approaches).  Parameters might be:
+-the proportion of background foreground colors
+-the amount of colors
+-the font-type
+-the number of objects in the label
+
+The second approach would be using  a neuronal network to do the  parametrization 
