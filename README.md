@@ -25,4 +25,5 @@ CNN architecture
 
 ## Defined style classes
 ### Prestigous
-
+Description: Lables shall underline the quality and the logstanding tradition.
+Style features: 
