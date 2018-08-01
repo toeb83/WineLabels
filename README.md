@@ -70,3 +70,11 @@ Similar to:
 \
 Style features: Usage of crests, golden colours, serife fonts \
 Similar to: Vintage
+
+### Vintage
+![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/v1.png)
+![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/v2.png)
+![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/v3.png)
+\
+Style features: Usage of crests, golden colours, serife fonts \
+Similar to: Vintage
