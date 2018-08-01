@@ -21,3 +21,7 @@ To train the data, we then have to classify some labels manually.
 
 ## Approach
 CNN architecture
+
+
+## Defined style classes
+CNN architecture
