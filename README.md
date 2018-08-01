@@ -29,13 +29,21 @@ CNN architecture
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/p2.png)
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/p3.png)
 \
-Description: Lables shall underline the quality and the logstanding tradition.\
-Style features: Usage of crests amd golden colours, serife fonts 
+Style features: Usage of large crests, golden colours, serife fonts \
+Similar to: Classic, Vintage
+
+### Classic
+![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/c1.png)
+![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/c2.png)
+![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/c3.png)
+\
+Style features: Usage of crests, golden colours, serife fonts \
+Similar to: Prestigous, young classic
 
 ### Hand drawn
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/h1.png)
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/h2.png)
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/h3.png)
 \
-Description: Lables shall underline the quality and the logstanding tradition.\
-Style features: Usage of crests amd golden colours, serife fonts 
+Style features: Usage of crests, golden colours, serife fonts \
+Similar to: Vintage
