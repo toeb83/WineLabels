@@ -30,5 +30,12 @@ CNN architecture
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/p3.png)
 \
 Description: Lables shall underline the quality and the logstanding tradition.\
-Style features: 
+Style features: Usage of crests amd golden colours, serife fonts 
 
+### Hand drawn
+![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/h1.png)
+![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/h2.png)
+![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/h3.png)
+\
+Description: Lables shall underline the quality and the logstanding tradition.\
+Style features: Usage of crests amd golden colours, serife fonts 
