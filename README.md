@@ -40,6 +40,29 @@ Similar to: Classic, Vintage
 Style features: Usage of crests, golden colours, serife fonts \
 Similar to: Prestigous, young classic
 
+### Young Classic
+![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/yc1.png)
+![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/yc2.png)
+![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/yc3.png)
+\
+Style features:   \
+Similar to:  
+
+### Text
+![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/t1.png)
+![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/t2.png)
+![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/t3.png)
+\
+Style features:   \
+Similar to:  
+
+### Minimal
+![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/m1.png)
+![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/m2.png)
+![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/m3.png)
+\
+Style features:   \
+Similar to:  
 ### Hand drawn
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/h1.png)
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/h2.png)
