@@ -25,8 +25,10 @@ CNN architecture
 
 ## Defined style classes
 ### Prestigous
-Description: Lables shall underline the quality and the logstanding tradition.\
-Style features: 
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/p1.png)
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/p2.png)
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/p3.png)
+\
+Description: Lables shall underline the quality and the logstanding tradition.\
+Style features: 
+
