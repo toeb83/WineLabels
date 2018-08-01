@@ -45,7 +45,7 @@ Similar to: Prestigous, young classic
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/yc2.png)
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/yc3.png)
 \
-Style features:   \
+Style features: Smaller crests or logos, mainly  serife fonts,   \
 Similar to:  
 
 ### Text
@@ -53,15 +53,15 @@ Similar to:
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/t2.png)
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/t3.png)
 \
-Style features:   \
-Similar to:  
+Style features: Font is dominating the labels   \
+Similar to: Minimal, Young Classic  
 
 ### Minimal
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/m1.png)
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/m2.png)
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/m3.png)
 \
-Style features:   \
+Style features: Very reduced colors, proportopn of background to foreground is  \
 Similar to:  
 ### Hand drawn
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/h1.png)
@@ -77,4 +77,4 @@ Similar to: Vintage
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/v3.png)
 \
 Style features: Usage of crests, golden colours, serife fonts \
-Similar to: Vintage
+Similar to: Prestigous
