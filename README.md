@@ -1,4 +1,7 @@
 # WineLabels
+## Synopsis
+pass
+
 ## Problem and Solution
 Product decision in the wine market heavily depends on non-rational consumer decision. Wine is a non standardized product with a wide spread in both quality and price that is normally not known by the client. Especially, when the consumer has no experience with a specific vineyard, the choice to buy a bottle depends on those aspects that are immediately obvious to the client winch is the price and the wine label.
 
