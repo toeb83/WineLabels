@@ -37,7 +37,7 @@ Similar to: Classic, Vintage
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/c2.png)
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/c3.png)
 \
-Style features: Usage of crests, golden colours, serife fonts \
+Style features: Smaller crests or logos, mainly  serife fonts \
 Similar to: Prestigous, young classic
 
 ### Young Classic
@@ -45,8 +45,8 @@ Similar to: Prestigous, young classic
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/yc2.png)
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/yc3.png)
 \
-Style features: Smaller crests or logos, mainly  serife fonts,   \
-Similar to:  
+Style features: Reduced forms, small crests or logos, mainly non serife fonts
+Similar to: Minimal, Classic
 
 ### Text
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/t1.png)
@@ -61,8 +61,8 @@ Similar to: Minimal, Young Classic
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/m2.png)
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/m3.png)
 \
-Style features: Very reduced colors, proportopn of background to foreground is  \
-Similar to:  
+Style features: Very reduced colors, high proportopn of background color  \
+Similar to: Young classic, Text  
 ### Hand drawn
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/h1.png)
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/h2.png)
@@ -76,5 +76,5 @@ Similar to: Vintage
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/v2.png)
 ![alt text](https://raw.githubusercontent.com/toeb83/WineLabels/master/md_img/v3.png)
 \
-Style features: Usage of crests, golden colours, serife fonts \
-Similar to: Prestigous
+Style features: Usage of very large crests, golden colours, serife fonts, missing background colors \
+Similar to: Prestigous, Hand drawn
